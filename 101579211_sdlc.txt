@@ -1,0 +1,5 @@
+DevOps in the SDLC
+
+Just because a dev has a feature working on their laptop, doesn't mean its ready to be released. During development and testing, Git tracks the changes, PRs, give the team a chance to review them, and CI piplines can run builds and test automatically and easily. These all help catch problems before they can reach the users.
+
+DevOps is also super important for deployment and maintenance. Automating the release steps makes deployments way more consistent and reduces the chance thay someone could miss a step when doing it manually. When an applicaiton is running, monitoring helps the team spot errors and performance issues. 
