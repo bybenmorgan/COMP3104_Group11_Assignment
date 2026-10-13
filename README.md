@@ -34,3 +34,9 @@ If your branch already exists on GitHub, switch to it after cloning using `git s
 We used GitHub Actions for our CI. The workflow is stored in `.github/workflows/ci.yml` and runs on pushes and PRs.
 
 The `repository-check` job runs on `ubuntu-latest`. It checks the repository, prints a confirmation mesage and lists all the files. Run status and logs are available in the repositories Actions menu.
+
+## Branching Strategy
+
+Each member works on a branch called `STUDENTID-Name`. For example, my name is Ben and my student ID is 101579211,so my branch is `101579211-Ben`.
+
+All file changes and commits are made locally. The team members sync their branches with `main` and fix any issues before merging their work with a PR. We keep the branches after merging so they are still able to be reviewed.
