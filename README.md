@@ -28,3 +28,9 @@ git push -u origin STUDENTID-Name
 ```
 
 If your branch already exists on GitHub, switch to it after cloning using `git switch STUDENTID-Name`.
+
+## CI/CD Setup
+
+We used GitHub Actions for our CI. The workflow is stored in `.github/workflows/ci.yml` and runs on pushes and PRs.
+
+The `repository-check` job runs on `ubuntu-latest`. It checks the repository, prints a confirmation mesage and lists all the files. Run status and logs are available in the repositories Actions menu.
