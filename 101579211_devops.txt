@@ -1,0 +1,5 @@
+COMP3104 - DevOps
+
+In COMP3104, we're learning how to build, test and deploy software as a team. We started with Bash, Git and GitHub, then move into build tools and CI/CD pipelines using Travis CI, Jenkins and GitHub Actions.
+
+Later in the semester, we'll get into cloud infrastructure, Docker and code quality checks. We will also look at monoliths and microservices, including how applications scale.
