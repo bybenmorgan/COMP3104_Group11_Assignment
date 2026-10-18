@@ -1,4 +1,4 @@
-# OMP3104 - DevOps
+COMP3104 - DevOps
 
 In COMP3104, It teaches students how to automate tasks, manage computer systems and use tools to make IT work more efficient. 
 It also helps students develop practical skills for working in the IT field.
