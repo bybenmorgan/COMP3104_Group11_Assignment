@@ -9,7 +9,7 @@ This is Group 11's assignment for COMP3104 DevOps. Each member uses their own br
 | Name | Student ID | GitHub |
 |------|------------|--------|
 | Ben Morgan | 101579211 | [bybenmorgan](https://github.com/bybenmorgan) |
-| Hannah Bravo| 101127115 | [hannahovarb](https://github.com/hannahovarb) |
+| Hannah Bravo | 101127115 | [hannahovarb](https://github.com/hannahovarb) |
 
 
 ## Setup Instructions
