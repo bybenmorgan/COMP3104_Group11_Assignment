@@ -1,4 +1,4 @@
-DevOps in the SDLC
+# DevOps in the SDLC
 
 DevOps is important in the software development lifecycle because it helps developers and IT teams work together to build and release software faster. 
 It also helps find errors quickly, improve software quality and make updates easier.
